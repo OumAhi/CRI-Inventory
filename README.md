@@ -4,9 +4,8 @@
 
 <img align="left" src="/acceuil_1.png">
 
-![Image of Yaktocat](/acceuil_2.png)
+<img align="left" src="/acceuil_2.png">
 
-![Image of Yaktocat](/acceuil_3.png)
+<img align="left" src="/acceuil_3.png">
 
-![Image of Yaktocat](/acceuil_4.png)
-    
+<img align="left" src="/acceuil_4.png">
